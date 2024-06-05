@@ -1,5 +1,7 @@
 # quarkus demo
 
+demonstrates creating a new quarkus app bootstrapped with rest extension.
+
 following tutorial from: https://quarkus.io/guides/maven-tooling#project-creation
 
 ## create new project
