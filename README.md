@@ -26,7 +26,7 @@ your app is now running on http://localhost:8080/
 ## test rest endpoint
 
 ```
-curl -w "\n" http://localhost:8080/hello/greeting/quarkus
+curl http://localhost:8080/hello
 ```
 
 ## other useful info
